@@ -1,16 +1,7 @@
-Небольшое HowTo:
-* В панели "Открыть лог"
-* кнопочка с вариантами:
-* 1. открывает сегодняшний лог
-* 2. вчерашний лог
-* 3. Произвольный (окно выбора файла)
-* Под кнопочкой отображается количество найденных поиском и полным списком водителей изъятым из списка
-* Ниже идет окно поиска работающее в реальном времени
-* Рядом чекбокс позволяющий выключать регистрозависимость ("Euro", "euro" и "EURO" - разные слова)
-* Зачем кнопочки с названиями : "Eng", "Rus", "Ukr" - я и сам не знаю.
-* Кнопочка выхода (для пополнения счета вашего мобильного на 5$)
-* Кстати, на всякий случай, двойной клик по записи скопирует в буфер обмена ник и steam_id (разделителем служит один пробел)
-
+ETS2 Logcenter:
+* Retrieve data from spawnlogs
+* Share them to ETS2 Logcenter
+![test](http://www.breastcancerwellness.org/bcw/wp-content/uploads/2014/09/test.gif)
 ***
 
-[Скачать](https://github.com/jackrv/ExtDriversFromLogs/blob/master/Files2Download/ExtDriversFromLogs.exe?raw=true)
+[Original software](https://github.com/jackrv/ExtDriversFromLogs/blob/master/Files2Download/ExtDriversFromLogs.exe?raw=true)
